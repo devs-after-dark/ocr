@@ -1,0 +1,2 @@
+# ocr
+Python OCR script
